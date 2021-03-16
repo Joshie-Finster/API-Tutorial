@@ -2,6 +2,7 @@
 	"author": "Joshua Robson",
 	"description":"Freecodecamp NPM tutorial",
 	"name": "fcc-learn-npm-package-json",
+	"keywords":["freecodecamp", "tutorial", "Josh"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
